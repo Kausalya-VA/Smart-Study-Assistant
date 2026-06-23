@@ -1,4 +1,4 @@
- 📚 Smart Study Assistant
+ ### 📚 Smart Study Assistant
 
  Overview
 
@@ -6,7 +6,7 @@ Smart Study Assistant is a Flask-based web application designed to help students
 
 The application allows users to upload PDF notes, automatically generates revision questions from the document content, collects self-assessment responses, calculates a study score, and identifies areas that require further revision.
 
- Features
+ ### Features
 
 * Upload PDF study materials
 * Automatic text extraction using PyPDF
@@ -16,7 +16,7 @@ The application allows users to upload PDF notes, automatically generates revisi
 * Revision recommendations
 * Dark Mode and Light Mode support
 
- Technologies Used
+ ### Technologies Used
 
 * Python
 * Flask
@@ -24,7 +24,7 @@ The application allows users to upload PDF notes, automatically generates revisi
 * HTML
 * CSS
 
- How It Works
+ ### How It Works
 
 
 1. Upload a PDF file.
@@ -34,16 +34,37 @@ The application allows users to upload PDF notes, automatically generates revisi
 5. A study score is calculated.
 6. Weak areas are highlighted for further revision.
 
- Project Structure
+ ### Project Structure
 
 Smart Study Assistant helps students quickly convert study notes into interactive revision quizzes and monitor their learning progress.
 
- Future Enhancements
+### Future Enhancements
 
 * AI-generated questions
 * Multiple quiz formats
 * Downloadable study reports
 * Personalized revision plans
+
+## Installation and Usage
+
+### 1. Clone the Repository
+
+git clone YOUR_GITHUB_REPOSITORY_LINK
+
+### 2. Install Dependencies
+
+pip install -r requirements.txt
+
+### 3. Run the Application
+
+python app.py
+
+### 4. Open in Browser
+
+http://127.0.0.1:5000
+
+The application will start locally and can be accessed through the browser.
+
 
 Screen shots
 Home page:
