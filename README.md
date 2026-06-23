@@ -45,10 +45,18 @@ Smart Study Assistant helps students quickly convert study notes into interactiv
 * Downloadable study reports
 * Personalized revision plans
 
- Author
+Screen shots
+Home page:
+<img width="955" height="512" alt="Homepage" src="https://github.com/user-attachments/assets/9b1ddc13-f9d6-4f98-a06c-572d7fbb08af" />
 
-Kausalya V
-Computer Science Engineering Student
+Quiz page:
+<img width="960" height="540" alt="Quiz" src="https://github.com/user-attachments/assets/d0393ad2-b6b9-44a9-8797-d160c44058e5" />
+
+Study report:
+<img width="955" height="512" alt="Study report" src="https://github.com/user-attachments/assets/52eba2cf-8a74-42ff-acee-755e326bd0e1" />
+
+
+
 
  
 
